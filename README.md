@@ -2,8 +2,7 @@
 
 # mothership
 
-a simple actor pattern framework in Rust
-heavily inspired by [ractor][ractor_url]
+a simple actor pattern framework written in Rust, heavily inspired by [ractor][ractor_url]
 
 ## Usage/Examples
 
